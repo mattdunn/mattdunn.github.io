@@ -3,6 +3,10 @@
   width: 50px;
 }
 
+body {
+  text-align: center;
+}
+
 h1 { 
   font: 60px "Lobster", serif;
   text-shadow: #666 4px 4px 0;
