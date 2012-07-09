@@ -3,13 +3,22 @@
   width: 50px;
 }
 
+#contentbody {
+  text-align: center;
+  color: #EEE;
+}
+
 body {
+  background: #0066FF;
+  background:-moz-radial-gradient(center, #0066FF, #0000CC);
+  background:-webkit-gradient(radial, center center, 120, center center, 800, from(#0066FF), to(#0000CC));
   text-align: center;
 }
 
 h1 { 
   font: 60px "Lobster", serif;
   text-shadow: #666 4px 4px 0;
+  color: #EEE; 
 }
 
 h1 span { 
