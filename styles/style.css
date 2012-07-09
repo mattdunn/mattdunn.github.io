@@ -3,12 +3,8 @@
   width: 50px;
 }
 
-#contentbody {
-  text-align: center;
-  color: #EEE;
-}
-
 body {
+  color: #EEE;
   background: #0066FF;
   background:-moz-radial-gradient(center, #0066FF, #0000CC);
   background:-webkit-gradient(radial, center center, 120, center center, 800, from(#0066FF), to(#0000CC));
