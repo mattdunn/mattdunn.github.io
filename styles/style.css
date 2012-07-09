@@ -2,3 +2,34 @@
   height: 50px;
   width: 50px;
 }
+
+h1 { 
+  font: 60px "Lobster", serif;
+  text-shadow: #666 4px 4px 0;
+}
+
+h1 span { 
+  display: inline-block;
+  position: relative;position
+  -webkit-transition: all 0.2s ease-out;
+}
+
+h1 span:hover {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1); 
+}
+
+.char1 { font-size:120px; position:relative; top:10px; left:-10px; }
+.char2 { position:relative; top:-15px; left:-8px; }
+.char3 { position:relative; top:-20px; left:-6px; }
+.char4 { position:relative; top:-25px; left:-4px; }
+.char5 { position:relative; top:-30px; left:-2px; }
+.char6 { font-size:120px; }
+.char7 { position:relative; top:-15px; left:0px; }
+.char8 { position:relative; top:-20px; left:4px; }
+.char9 { position:relative; top:-25px; left:6px; }
+.char10 { position:relative; top:-30px; left:8px; }
+.char11 { position:relative; top:-35px; left:12px; }
+.char12 { position:relative; top:-40px; left:14px; }
+.char13 { position:relative; top:-48px; left:20px; }
+.char14 { position:relative; top:-56px; left:24px; }
