@@ -24,12 +24,6 @@ h1 {
 h1 span { 
   display: inline-block;
   position: relative;position
-  -webkit-transition: all 0.2s ease-out;
-}
-
-h1 span:hover {
-  -moz-transform: scale(1.1);
-  -webkit-transform: scale(1.1); 
 }
 
 .char1 { font-size:120px; position:relative; top:10px; left:-10px; }
