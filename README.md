@@ -9,3 +9,6 @@ to do
 
 * lazyload flickr images
   - http://www.appelsiini.net/projects/lazyload
+
+* icons
+  - http://www.flickr.com/photos/jurgenappelo/sets/72157630992145320/with/7749190660/
