@@ -23,6 +23,7 @@ h1 {
   font: 60px "Lobster", serif;
   text-shadow: #666 4px 4px 0;
   color: #EEE; 
+  display:none;
 }
 
 h1 span { 

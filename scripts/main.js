@@ -1,5 +1,5 @@
 (function($) {
   $(function() {
-    $(".spiffy-text").lettering();
+    $(".spiffy-text").fadeIn().lettering();
   });
 })(jQuery);
