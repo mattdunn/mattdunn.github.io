@@ -1,3 +1,8 @@
+acknowledgements
+----------------
+
+Icons courtesy of <a href="http://artimonier.tk/">Artimonier.tk</a> and <a href="http://www.icondeposit.com/theicondeposit:106">IconDeposit.com</a>
+
 to do
 -----
 
