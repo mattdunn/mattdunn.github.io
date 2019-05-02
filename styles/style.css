@@ -35,6 +35,10 @@ h1 span {
   position: relative;position
 }
 
+a {
+  color: #FFFFFF; 
+}
+
 .char1 { font-size:120px; position:relative; top:10px; left:-10px; }
 .char2 { position:relative; top:-15px; left:-8px; }
 .char3 { position:relative; top:-20px; left:-6px; }
